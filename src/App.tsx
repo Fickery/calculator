@@ -41,8 +41,8 @@ export default function App() {
   };
 
   return (
-    <div className="flex justify-center items-center w-screen h-screen text-black">
-      <div className="w-1/4 border border-black bg-slate-50 shadow-md border-r-[5px] rounded-xl">
+    <div className="flex justify-center items-center w-screen h-screen text-black bg-black">
+      <div className="w-1/4 border border-black bg-slate-50 shadow-lg shadow-slate-400 rounded-xl">
         <p className="flex justify-center items-center mt-5 font-['Open_Sans'] font-extrabold">
           casio
         </p>
