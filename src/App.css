@@ -1,0 +1,12 @@
+.numKey {
+  text-align: center;
+  padding: 1rem 1rem;
+  width: 20%;
+  cursor: pointer;
+  font-weight: 800;
+  border: 1px solid black;
+}
+
+.numKey:hover {
+  background-color: rgb(230, 230, 230);
+}
